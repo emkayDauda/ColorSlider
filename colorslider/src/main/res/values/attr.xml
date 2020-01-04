@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colors" format="reference" />
+
+    <declare-styleable name="ColorSlider">
+        <attr name="colors" />
+    </declare-styleable>
+</resources>
