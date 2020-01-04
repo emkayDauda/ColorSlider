@@ -77,3 +77,8 @@ _3) Finally, listen for color changes in activity_
         someView.setBackgroundColor(color)
     }
 ```
+
+Examples
+=====================
+
+Complete code for the app featured in screenshots is available in the `app` folder
