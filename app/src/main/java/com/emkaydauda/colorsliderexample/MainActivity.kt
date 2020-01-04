@@ -10,8 +10,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        textBackground.addListener {
-            display.setBackgroundColor(it)
+        colorSlider.addListener {
+            textDisplay.setBackgroundColor(it)
         }
     }
 }
