@@ -1,3 +1,12 @@
+ColorSlider Library
+=====================
+
+Lightweight color-picker library for Android.
+
+[![](https://jitpack.io/v/emkayDauda/ColorSlider.svg)](https://jitpack.io/#emkayDauda/ColorSlider)
+
+
+
 Screenshots
 =====================
 
@@ -27,7 +36,7 @@ _2) Import module to your project level build.gradle file_
 ```
 	dependencies {
 	    ...
-	    implementation 'com.github.emkayDauda:ColorSlider:0.1.0'
+	    implementation 'com.github.emkayDauda:ColorSlider:$current_version'
 	}
 
 ```
@@ -55,7 +64,7 @@ _1) Create String Array of colors in strings.xml file_
 
 ```
 
-_2) Add view into .xml file_
+_2) Add ColorSlider to layout_
 
 ```
 <com.emkaydauda.colorslider.ColorSlider
