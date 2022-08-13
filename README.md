@@ -19,7 +19,7 @@ Getting started
 
 _1) Using JitPack_
 
-Add maven url to root level build.gradle file
+Add maven url to root level build.gradle file.
 
 ```
     allprojects {
